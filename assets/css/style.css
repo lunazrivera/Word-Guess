@@ -1,0 +1,42 @@
+/* All HTML AND BODY */
+* {
+    padding: 5px;
+    margin: 5px; 
+}
+
+html {
+    back
+}
+
+html, body {
+    font-family: 'Raleway', sans-serif;
+    /* font-family: 'Arvo', serif;   */
+    /* font-family: 'Abril Fatface', cursive; */
+}
+/* ------------------------------------------ */
+/* Head container styles */
+.head-container {
+    text-align: center;
+    /* border: 1px solid black; */
+}
+
+.img-core {
+    height: 100px;
+    width: 100px;
+}
+
+/* Main Container styles */
+.main-container {
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid black; */
+}
+
+/* Stat container styles */
+.stat-container {
+    justify-content: space-around;
+    display: flex;
+    /* border: 1px solid black; */
+}
+
+/* Footer Container styles */
